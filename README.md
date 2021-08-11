@@ -4,7 +4,7 @@
 # basics in c 
 
 
-#1.  program structure
+# program structure
 
 
 
@@ -50,7 +50,7 @@ printf("\nStudent Reg is: %d", student.stu_reg);
 
 
 
-#2. Syntax
+# Syntax
 
 
 
@@ -76,7 +76,7 @@ return 0;
 
 
 
-#3 Data types
+# Data types
 
 
 
@@ -106,7 +106,7 @@ return 0;
 }
 
 
-#4.bvariables
+# variables
 
 
 #include <stdio.h>
@@ -137,7 +137,7 @@ return 0;
 }
 
 
-#5. Constants 
+# Constants 
 
 
 
@@ -163,7 +163,7 @@ int area;
 
 }
 
-8. STORAGE
+# STORAGE
 
 
 #include <stdio.h> 
@@ -197,7 +197,7 @@ static int count = 5;   	/* global variable */
    
 }
 
-#9. operators
+# operators
 
 #include <stdio.h> 
  main() { 
@@ -236,7 +236,7 @@ static int count = 5;   	/* global variable */
 } 
 
 
-#10  decision making
+# decision making
 
 #include <stdio.h> 
   int main () 
@@ -251,7 +251,7 @@ static int count = 5;   	/* global variable */
   
    return 0; 
 }
- #11  looops 
+ # looops 
  
  #include <stdio.h> 
   int main () 
@@ -279,7 +279,7 @@ static int count = 5;   	/* global variable */
 
 }
 
-#13. scope rules
+# scope rules
 
 
 #include <stdio.h> 
@@ -302,7 +302,7 @@ static int count = 5;   	/* global variable */
     return a + b; 
 } 
 
-#14 arrays
+# arrays
 
 #include <stdio.h> 
   int main () 
@@ -319,7 +319,7 @@ static int count = 5;   	/* global variable */
 } 
 
 
-accessing arrays
+# accessing arrays
 
 #include <stdio.h> 
   int main () 
